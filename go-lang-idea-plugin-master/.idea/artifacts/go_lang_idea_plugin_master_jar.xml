@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="go-lang-idea-plugin-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/go_lang_idea_plugin_master_jar</output-path>
+    <root id="archive" name="go-lang-idea-plugin-master.jar" />
+  </artifact>
+</component>
